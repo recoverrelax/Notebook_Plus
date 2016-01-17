@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="menu_title1">Menu Item1</string>
+    <string name="menu_title2">Menu Item2</string>
+
+    <string name="menu_recent_notes">Recent Notes</string>
+    <string name="menu_my_notes">My Notes</string>
+
+</resources>

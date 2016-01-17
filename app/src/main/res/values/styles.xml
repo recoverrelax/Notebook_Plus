@@ -1,0 +1,14 @@
+<resources>
+
+    <style name="textViewStyle" parent="android:Widget.TextView">
+        <item name="android:fontFamily">sans-serif-light</item>
+    </style>
+
+    <style name="editTextStyle" parent="Widget.AppCompat.EditText">
+        <item name="android:fontFamily">sans-serif-light</item>
+    </style>
+
+    <style name="buttonStyle" parent="android:Widget.Holo.Button">
+        <item name="android:fontFamily">sans-serif-light</item>
+    </style>
+</resources>

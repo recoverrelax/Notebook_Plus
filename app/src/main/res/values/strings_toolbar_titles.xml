@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="activity_splashscreen_title">Splash Screen</string>
+
+    <string name="activity_normal_notes_fragment">My Notes</string>
+    <string name="activity_recent_notes_fragment">Recent Notes</string>
+    <string name="activity_add_note">Add Note</string>
+    <string name="activity_edit_note">Edit Note</string>
+</resources>
